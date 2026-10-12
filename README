@@ -1,0 +1,18 @@
+# Budget Tracker
+
+## Project Description
+The Budget Tracker is a simple website that helps users record and view their daily expenses. It displays expenses in a table and provides a form for entering expense details.
+
+## Files Used
+- **index.html:** Contains the structure of the Budget Tracker, including the expense table and Add Expense form.
+- **style.css:** Improves the appearance of the website using colors, fonts, spacing, borders, and rounded corners.
+
+## CSS Design Improvements
+- **Color Palette:** Used consistent colors to make the website look clean and professional.
+- **Typography:** Used custom fonts to improve readability and appearance.
+- **Expense Table:** Added borders, padding, a colored header, and alternating row colors.
+- **Add Expense Form:** Styled the inputs and button with consistent spacing and rounded corners.
+- **CSS Box Model:** Used margin, padding, borders, and border-radius to create separate card-like sections for the heading, form, and expense table.
+
+## Conclusion
+This project helped me improve my CSS skills and learn how to create a more attractive, organized, and user-friendly website.
